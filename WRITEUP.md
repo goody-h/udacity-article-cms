@@ -27,7 +27,7 @@ It is fairly easier to deploy applications to App Service than it is to Virtual 
 --------------------
 #### Decision
 
-Deployment option: App Service
+Deployment option: App Service ([https://article-cms-app.azurewebsites.net/](https://article-cms-app.azurewebsites.net/))
 
 --------------------
 #### Justification
